@@ -1,7 +1,6 @@
 # Gerenciador de Tarefas com Swing
 Este é um aplicativo de gerenciamento de tarefas simples utilizando Java, Spring Framework e Swing para a interface gráfica. O projeto permite adicionar, editar e remover tarefas de uma lista.
 
-![img](https://)
 
 ### Funcionalidades
 * **Adicionar Tarefas:** Permite ao usuário adicionar uma nova tarefa à lista.
